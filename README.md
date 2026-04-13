@@ -97,7 +97,7 @@ Building a real-time system that detects ISL hand gestures and converts them to 
 
 | Credential | Issuer | Status |
 |---|---|---|
-| [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence) | Google / Coursera | 🔄 In Progress |
+| Google Business Intelligence Professional Certificate | Google / Coursera | 🔄 In Progress |
 | Data Analytics Virtual Training | Unified Mentor | ✅ Completed (Jan 2025) |
 
 ---
