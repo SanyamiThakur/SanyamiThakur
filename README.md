@@ -24,7 +24,7 @@ I'm a final-year **Electronics & Computer Science** student with an **Honors spe
 
 - 🔭 Currently building: **Indian Sign Language Recognition** (real-time gesture-to-text using computer vision)
 - 📜 Completing: **Google Business Intelligence Professional Certificate** *(SQL · BigQuery · Tableau · ETL · Data Modeling)*
-- 🎓 Honors in Research (Data Science) · CGPA: **7.94 / 10**
+- 🎓 B.E Electronics and Computer Science with Honors in Research (Data Science) · CGPA: **7.94 / 10**
 - 🎤 Presented research at **Multicon** and other academic conferences
 - 🌱 Next on my learning roadmap: Advanced Statistics · Predictive Modelling · Business Analytics · Project Management
 - 🏆 IELTS Band **7.5**
@@ -68,7 +68,7 @@ I'm a final-year **Electronics & Computer Science** student with an **Honors spe
 ### 🛒 End-to-End E-Commerce Sales & Logistics Analysis
 `PostgreSQL` `Power BI` `Business Intelligence`
 
-Designed a full relational data model across customers, orders, products, payments, and reviews. Built optimized SQL views and fact tables powering interactive Power BI dashboards with KPIs including total revenue, delivery performance, customer growth, and seller insights. Applied indexing and query optimization for faster reporting.
+Designed a full relational data model across customers, orders, products, payments, and reviews. Built optimized SQL views and fact tables powering interactive Power BI dashboards with KPIs, including total revenue, delivery performance, customer growth, and seller insights. Applied indexing and query optimization for faster reporting.
 
 ---
 
